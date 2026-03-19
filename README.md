@@ -1,5 +1,3 @@
-# SOC-Lab-Login-Detection
-SOC-Lab-Login-Detection
 # SOC Lab: Detecting Successful Logins (Event ID 4624)
 
 ## Overview
